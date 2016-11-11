@@ -1,0 +1,15 @@
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.csv
+*.xls
+*.xlsx
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
+!/target/base+system+user+dev/doc/
